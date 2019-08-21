@@ -41,7 +41,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-react": "^6.24.1",
     "chai": "^4.1.2",
-    "css-loader": "^0.28.9",
+    "css-loader": "^0.28.11",
     "eslint-plugin-react": "^7.5.1",
     "file-loader": "^1.1.6",
     "grunt": "^1.0.2",
