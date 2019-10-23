@@ -28,7 +28,7 @@
     "openpgp": "github:mailvelope/openpgpjs#v2.5.13-strict_mdc",
     "prop-types": "15.6.0",
     "qrcodejs": "github:llyys/qrcodejs#98657dab44d520876cfb646c39ebbc43c1594826",
-    "react": "16.2.0",
+    "react": "16.11.0",
     "react-datepicker": "1.1.0",
     "react-dom": "16.2.0",
     "react-router-dom": "4.2.2",
